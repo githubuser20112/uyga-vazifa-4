@@ -1,0 +1,166 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.all{
+    margin: 0 auto;
+    width: 1500px;
+    height: 900px;
+    margin: 0 auto;
+    margin-top: 40px;
+}
+header{
+    background: linear-gradient(to bottom, #4A99D3 -17.33%, rgba(74, 153, 211, 0.00) 75.91%), #FFF;
+    box-shadow: 0px 4px 16px 0px rgba(75, 0, 129, 0.26);
+}
+.navbar{
+    display: flex;
+    justify-content: space-between;
+}
+.text-item{
+    display: flex;
+    text-decoration: none; 
+    display: inline-block;
+    margin-left: 30px;
+}
+.hero{
+    padding-top: 100px;
+    display: flex;
+}
+.hero-left p{
+    padding-top: 70px;
+    padding-bottom: 40px;
+    font-size: 20px;
+}
+.hero-right{
+    padding-left: 500px;
+}
+.sections{
+    display: inline-block;
+    margin-top: 150px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
+.bir{
+    font-size: 50px;
+}
+.section2{
+    margin-left: 400px;
+    font-size: 20px;
+    margin-right: 400px;
+}
+.birr{
+    margin-bottom: 30px;
+    margin-top: 30px;
+    font-size: 30px
+}
+.section1{
+    width: 40w0px;
+    height: 540px;
+    border-radius: 10px;
+    background: #FFF;
+    box-shadow: 5px 20px 50px 0px rgba(74, 153, 211, 0.20);
+}
+.ikki{
+    margin-bottom: 30px;
+    margin-top: 30px;
+    font-size: 30px
+}
+.uch{
+    margin-bottom: 30px;
+    margin-top: 30px;
+    font-size: 30px
+}
+.birrr{
+    font-size: 20px;
+}
+.su{
+    padding-top: 100px;
+}
+.two{
+    padding-top: 100px;
+    width: 1440px;
+    height: 476px;
+    background: rgba(74, 153, 211, 0.10);
+}
+.learn{
+    padding-top: 50px;
+    font-size: 18px;
+}
+.p{
+    font-size: 50px;
+    padding-left: 100px;
+    display: flex;
+    justify-content: center;
+}
+.person img{
+    padding-left: 70px;
+}
+.Create{
+    font-size: 30px;
+    padding-bottom: 30px;
+    padding-left: 20px;
+}
+.Howitworks{
+    display: flex;
+    justify-content: center;
+    padding-left: 200px;
+    padding-top: 100px;
+}
+.one{
+    font-size: 20px;
+    margin-right: 90px;
+}
+.shield{
+    margin-left: 20px;
+    margin-right: 20px;
+}
+.shield img{
+    padding-left: 70px;
+}
+.emoji img{
+    padding-left: 70px;
+}
+.say{
+    font-size: 50px;
+    display: flex;
+    justify-content: center;
+    padding-top: 100px;
+}
+.heros{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 50px;
+}
+.amet{
+    font-size: 25px;
+    margin-top: 60px;
+    margin-bottom: 60px;
+}
+.name{
+    font-size: 50px;
+}
+.right{
+    padding-left: 150px;
+    margin-top: 100px;
+}
+.heross{
+    padding-top: 200px;
+    display: flex;
+    justify-content: space-between;
+}
+.r{
+    padding-left: 300px;
+    padding-top: 100px;
+}
+.Download{
+    font-size: 50px;
+}
+.in{
+    font-size: 30px;
+    margin-top:  50px;
+    margin-bottom: 50px;
+}
